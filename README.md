@@ -35,8 +35,8 @@ This tool is intended exclusively for:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Christian93111/ctf-bruteforcer-login.git
-   cd ctf-bruteforcer-login
+   git clone https://github.com/Christian93111/ctf-login-bruteforcer.git
+   cd ctf-login-bruteforcer.git
    ```
 
 ## 📖 Usage
